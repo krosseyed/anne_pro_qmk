@@ -12,7 +12,7 @@ Hardware Availability: Discontinued, [possible vendors](https://www.reddit.com/r
 
 Install QMK Environment - See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
 
-    ```https://msys.qmk.fm/```
+    https://msys.qmk.fm/
 
 Make example for this keyboard (after setting up your build environment):
 
