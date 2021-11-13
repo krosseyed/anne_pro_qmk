@@ -1,0 +1,9 @@
+Layers:
+
+1. Normal Layer
+
+2. FN Layer (activated by pressing FN)
+
+3. MO2 Layer (activated by pressing FN + Menu/Anne)
+
+4. MiDi Layer (activated by pressing FN + Menu/Anne + 1)
