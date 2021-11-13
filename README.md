@@ -37,3 +37,4 @@ The Bluetooth setup is similar to the original Anne Pro firmware. After pressing
 ## Known problems
 - Capslock indicator light is not working. This is the results of buggy lighting firmware by Obins, which means that the complete backlight would turn on if the capslock was toggled.
 - Sending macros over Bluetooth is limited to about 20 keypresses, this is because the transmit buffer is limited and only starts sending after all keypresses are put in the buffer.
+- The prebuilt QMK environment will throw some configuration errors within some .h files when compiling. you should be able to update the config version to _7.0_ to resolve these particular build conflicts 
